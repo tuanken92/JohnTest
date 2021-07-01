@@ -1,0 +1,3 @@
+rootProject.name = "JohnTest"
+include ':app'
+include ':RFIDAPI3Library'
